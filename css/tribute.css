@@ -2,6 +2,10 @@ body {
     background-color: navajowhite;
   }
 
+#image {
+    display: block;
+}
+
 .responsive {
     width: 100%;
     max-width: 800px;
